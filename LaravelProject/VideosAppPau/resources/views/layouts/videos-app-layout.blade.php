@@ -12,6 +12,7 @@
             <li><a href="/">Inici</a></li>
             <li><a href="/videos">Videos</a></li>
             <li><a href="/videos/manage">Gestió de vídeos</a></li>
+            <li><a href="/users/manage">Gestió d'usuaris</a></li>
         </ul>
     </nav>
 </header>
