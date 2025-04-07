@@ -25,6 +25,7 @@
                 <li><a href="{{ url('/') }}">Inici</a></li>
                 <li><a href="{{ url('videos') }}">Videos</a></li>
                 <li><a href="{{ url('videos/manage') }}">Gestió de vídeos</a></li>
+                <li><a href="{{ url('users/manage') }}">Gestió d'usuaris</a></li>
             </ul>
         </nav>
     </body>
